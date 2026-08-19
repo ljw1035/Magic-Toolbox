@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "apkUrl": "https://cdn.jsdelivr.net/gh/LJW1035/Magic-Toolbox@main/app-debug.apk",
-  "notes": "修复首页健身卡片进度条：统一配色为妙妙工具 mint 青绿，0% 时显示最小可见宽度"
+  "notes": "设置页新增跳转其他 App 功能；健身打卡新增计时器小工具；身高体重BMI移至进度模块并支持自定义保存与历史记录"
 }
