@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.0.10",
   "apkUrl": "https://cdn.jsdelivr.net/gh/LJW1035/Magic-Toolbox@main/app-debug.apk",
-  "notes": "设置页新增跳转其他 App 功能；健身打卡新增计时器小工具；身高体重BMI移至进度模块并支持自定义保存与历史记录"
+  "notes": "更新检查加时间戳防缓存，以后发版不再被 CDN 缓存卡住；设置页新增跳转其他 App 功能；健身打卡新增计时器与身体数据记录"
 }
