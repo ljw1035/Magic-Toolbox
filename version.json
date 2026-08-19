@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "apkUrl": "https://cdn.jsdelivr.net/gh/LJW1035/Magic-Toolbox@main/app-debug.apk",
-  "notes": "新增「健身打卡」模块；主页升级为多任务导航（可查看各任务进度）；设置页版本号精简显示"
+  "notes": "导航精简为首页/统计/设置；四级备考与健身打卡改为卡片进入；统计页新增健身进度；健身界面配色与主应用统一"
 }
