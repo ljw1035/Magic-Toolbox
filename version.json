@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "apkUrl": "https://cdn.jsdelivr.net/gh/LJW1035/Magic-Toolbox@main/app-debug.apk",
-  "notes": "导航精简为首页/统计/设置；四级备考与健身打卡改为卡片进入；统计页新增健身进度；健身界面配色与主应用统一"
+  "notes": "修复首页健身卡片进度条：统一配色为妙妙工具 mint 青绿，0% 时显示最小可见宽度"
 }
