@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
+  "versionCode": 13,
+  "versionName": "1.1.0",
   "apkUrl": "https://cdn.jsdelivr.net/gh/LJW1035/Magic-Toolbox@main/app-debug.apk",
-  "notes": "新增题库练习模块（AWS AIF-C01 452题，含错题集与进度记录），主页可直接进入刷题"
+  "notes": "健身打卡大更新：改为「每月一个周期」的自定义计划——可自行添加训练动作，并为每个动作设置单组时长与目标组数；点动作进入独立倒计时页，完成一组自动计数，倒计时结束震动提醒；顶部问候语与标题支持自定义"
 }
