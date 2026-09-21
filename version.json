@@ -1,6 +1,6 @@
 {
   "versionCode": 14,
   "versionName": "1.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/LJW1035/Magic-Toolbox/main/app-debug.apk",
+  "apkUrl": "https://github.com/ljw1035/Magic-Toolbox/releases/download/v1.1.1/app-debug.apk",
   "notes": "1) 修复倒计时结束不震动（改用原生震动，新增 VIBRATE 权限）；2) 首页健身卡片重做：去掉多余文字，只留本月进度 + 今日是否已打卡；3) 已经过去的日子不能补卡（防漏练补记），在「进度」页重置本月后可补卡；4) 更新源从 jsDelivr 换成 GitHub 直链，以后发版能正常弹出更新提示"
 }
